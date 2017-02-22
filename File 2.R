@@ -17,3 +17,4 @@ q1[ c(5, 6, 7, 8) ]
 q1[5:8]
 q1[gender == "m"]
 mean( q1[ gender == "m" ], na.rm = TRUE)
+mean( q1[ gender == "f" ], na.rm = TRUE)
