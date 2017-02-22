@@ -2,3 +2,4 @@ text file
 with two lines
 The hoff is great.  
 with three lines
+Surprise! another line
